@@ -22,6 +22,8 @@ Once you execute this code, you will be prompted to enter the zone which you hav
 
 NOTE: The zone value will be revealed once you start the lab. Just copy the value which replaces the marked box in the above image. 
 Example zone value: us-east4-a
+
+
 ---
 
 ## 🎉 **Congratulations! Lab Completed Successfully!** 🏆  
