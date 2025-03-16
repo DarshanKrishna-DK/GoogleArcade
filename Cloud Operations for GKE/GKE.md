@@ -12,10 +12,14 @@ Run the following commands in **Cloud Shell**:
 ```bash
 curl -LO raw.githubusercontent.com/DarshanKrishna-DK/GoogleArcade/refs/heads/main/Cloud%20Operations%20for%20GKE/GKE.sh
 
-sudo chmod +x arcadecrew.sh
+sudo chmod +x GKE.sh
 
 ./arcadecrew.sh
 ```  
+Once you execute this code, you will be prompted to enter the zone which you have to copy from the Task 1 section of Lab instruction page. 
+![image](zonecode.png)
+NOTE: The zone value will be revealed once you start the lab. Just copy the value which replaces the marked box in the above image. 
+Example zone value: us-east4-a
 ---
 
 ## 🎉 **Congratulations! Lab Completed Successfully!** 🏆  
